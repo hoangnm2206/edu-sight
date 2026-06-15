@@ -1,0 +1,16 @@
+node_modules
+.next
+.env
+.env.local
+.env*.local
+.env.production
+.env.development
+*.log
+.DS_Store
+.vercel
+coverage/
+
+# TypeScript build cache (regenerated on every build)
+tsconfig.tsbuildinfo
+
+.vercel
